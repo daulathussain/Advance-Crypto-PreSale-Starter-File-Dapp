@@ -8,11 +8,11 @@
 
 Kindly follow the following Instructions to run the project in your system and install the necessary requirements
 
-- [Final Source Code](https://www.theblockchaincoders.com/SourceCode)
+- [Final Source Code]([https://www.theblockchaincoders.com/SourceCode](https://www.theblockchaincoders.com/sourceCode/advance-crypto-presale-dapp))
 
 #### Setup Video
 
-- [Final Code Setup video](https://youtu.be/HSJ3NSr7UKE?si=nz5M4T5iNcU1VwsN)
+- [Final Code Setup video](https://youtu.be/XXy8_2XUcNA?si=caImpjrlsHWxW5iu)
 
 - Please find below the details and requirements for deploying the contract, setting up the global environment variables, configurations, and the steps to proceed:
 
