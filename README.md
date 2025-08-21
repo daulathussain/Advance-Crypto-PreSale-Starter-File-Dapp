@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-![alt text](https://www.daulathussain.com/wp-content/uploads/2025/02/Advance-Crypto-PreSale-Dapp.jpg)
+![alt text](https://www.daulathussain.com/wp-content/uploads/2025/08/Build-Deploy-Advance-ICO-PreSale-DApp-Tax-Burn-Soft-Hard-Cap-Next.js-Solidity-Project.jpeg)
 
 ## Instruction
 
