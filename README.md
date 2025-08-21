@@ -12,7 +12,7 @@ Kindly follow the following Instructions to run the project in your system and i
 
 #### Setup Video
 
-- [Final Code Setup video](https://youtu.be/XXy8_2XUcNA?si=caImpjrlsHWxW5iu)
+- [Final Code Setup video](https://youtu.be/vK80NyEtGog?si=O7hlrCsBzADA8wzd)
 
 - Please find below the details and requirements for deploying the contract, setting up the global environment variables, configurations, and the steps to proceed:
 
